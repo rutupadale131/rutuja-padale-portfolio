@@ -15,7 +15,7 @@ The portfolio is **fully responsive**, ensuring accessibility across all devices
 | **Animations**      | Framer Motion         |  
 | **API**             | REST API              |  
 | **Email Services**  | SMTP (Contact Form)   |  
-| **Error Handling**  | Custom middleware, third-party packages |  
+| **Error Handling**  | Try-Catch Blocks  |  
 | **Deployment**      | Vercel (Frontend), Railway (Backend) |  
 
 ---
@@ -33,7 +33,7 @@ The portfolio is **fully responsive**, ensuring accessibility across all devices
 ## **API Endpoints** (If applicable)  
 | **Method** | **Endpoint**       | **Description**  |  
 |-----------|----------------|-----------------|  
-| **POST**  | `/api/contact` | Sends a message via SMTP  |  
+| **POST**  | `/api/send-message` | Sends a message via SMTP  |  
 
 ---
 
